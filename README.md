@@ -6,5 +6,5 @@ This is a test case document which covered mainly the computer database search e
 Test case document divided in to sub modules as Landing Page , Search functionality, Search Results, Add computer , Edit computer and Delete computer 
 # The components of the test case
 test case consist with TestID, TestScenario,Prerequisites,Teststeps,Testdata,Expected Reaults, Actual results, Test type, Severity and test Status
-# Navigation for the application 
+# Navigation to the application 
 https://computer-database.gatling.io/computers
